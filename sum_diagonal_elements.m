@@ -1,0 +1,1 @@
+sum(diag(chol(A))
